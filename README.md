@@ -16,5 +16,8 @@ Je suis un jeune développeur passionné d'informatique et de musique.
 Projet tutoré : Jeu de mastermind en Java au S3 de mon BUT Informatique ( Décembre 2023 ) durant 1 mois et demi 
   - [Mastermind](https://github.com/LHertschuh/BUT-S3---Java-Mastermind)
 
+Projet tutoré : Application de recherche de recette en C# au S2 de mon BUT Informatique ( Mai 2023 ) durant 1 mois et demi en groupe de 2 avec Mathilde Guillemain
+  - [Recette](https://github.com/LHertschuh/BUT-S2---C-Recettes)
+
 ## 🛠 Skills
 C#, C, Java, SQL, HTML, CSS, Puml, .NET
