@@ -14,7 +14,7 @@ Je suis un jeune développeur passionné d'informatique et de musique.
 ## Mes projets  
 
 Projet tutoré : Jeu de mastermind en Java au S3 de mon BUT Informatique ( Décembre 2023 ) durant 1 mois et demi 
-  [Mastermind](https://github.com/LHertschuh/BUT-S3---Java-Mastermind)
+  - [Mastermind](https://github.com/LHertschuh/BUT-S3---Java-Mastermind)
 
 ## 🛠 Skills
 C#, C, Java, SQL, HTML, CSS, Puml, .NET
